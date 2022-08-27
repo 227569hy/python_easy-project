@@ -6,3 +6,5 @@ class settings:
         self.bgcolor = (245, 245, 245)
         self.ship_height = 100
         self.ship_width = 100
+        self.ship_speed = 1
+        self.full_screen = True
